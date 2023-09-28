@@ -116,20 +116,7 @@ Thank you for stopping by, and happy typing!
 
 <h3 id="installation" align="center">Installation</h3>
 
----
-
-<div>
-
-1. Clone the repo
-   <code>git clone https://github.com/your_username_/Project-Name.git</code>
-2. Change directory
-   <code>cd Project-Name</code>
-3. Install packages
-   <code>npm install</code>
-4. Run the code
-   <code>npm start</code>
-
-</div>
 
 
 ---
+
