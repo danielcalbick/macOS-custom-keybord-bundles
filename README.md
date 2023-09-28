@@ -6,12 +6,10 @@
 
 <!-- Left column for Table of Contents -->
 <td width="50%" valign="top">
-
-<div style="background-color: #8ecae6; padding: 8px 0; text-align: center; color: black;">
-    <h2 style="margin: 0;">
+    <h2 style="text-align: center;">
         <strong>Table of Contents</strong>
     </h2>
-</div>
+
 
 <div>
 
