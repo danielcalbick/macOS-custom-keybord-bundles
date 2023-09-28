@@ -1,4 +1,4 @@
-<h1 style="your-style-here">MacOS Custom Keyboard Bundles</h1>
+<h1 align= center>MacOS Custom Keyboard Bundles</h1>
 
 <!-- Main table for layout -->
 <table>
