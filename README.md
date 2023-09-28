@@ -40,7 +40,7 @@ One Paragraph of the project description goes here. Provide an introductory sent
 
 <br>
 
-<img src="project-image-url" alt="Project Image">
+<img src="https://img.shields.io/badge/-Matlab-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,matlab_logo.svg" alt="Project Image" width="150" height="50"/>
 
 <!-- Additional Sections here -->
 
