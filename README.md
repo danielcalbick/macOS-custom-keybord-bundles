@@ -6,7 +6,7 @@
 
 <!-- Left column for Table of Contents -->
 <td width="50%" valign="top">
-    <h2 style="text-align: center;">
+    <h2 align= center>
         <strong>Table of Contents</strong>
     </h2>
 
