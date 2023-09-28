@@ -40,7 +40,7 @@ This repository contains a custom keyboard bundle for macOS to enhance your typi
 
 <br>
 
-<img src="https://github.com/danielcalbick/macOS-custom-keybord-bundles/blob/main/.assets/project_image.png?raw=true" alt="Project Image" width="100%" />
+<img src="https://github.com/danielcalbick/macOS-custom-keybord-bundles/blob/main/.assets/base-keyboard.png?raw=true" alt="Project Image" width="100%" />
 
 <!-- Additional Sections here -->
 
