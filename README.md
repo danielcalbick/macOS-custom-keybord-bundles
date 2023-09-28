@@ -9,33 +9,28 @@
     <h2 align= center>
         <strong>Table of Contents</strong>
     </h2>
+    <div>
 
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Prerequisites](#prerequisites)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Code Samples](#code-samples)
+7. [Features](#features)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
 
-<div>
-
- 1. [Introduction](#introduction)
- 2. [Getting Started](#getting-started)
- 3. [Prerequisites](#prerequisites)
- 4. [Installation](#installation)
- 5. [Usage](#usage)
- 6. [Code Samples](#code-samples)
- 7. [Features](#features)
- 8. [Contributing](#contributing)
- 9. [License](#license)
- 10. [Acknowledgments](#acknowledgments)
-
-</div>
+    </div>
 
 </td>
 
 <!-- Right column for Project Description -->
 <td width="50%" valign="top">
-
-<div style="background-color: #8ecae6; padding: 8px 0; text-align: center; color: black;">
-    <h2 style="margin: 0 0;">
-        <strong>TL;DR</strong>
+    <h2 align= center>
+        <strong><em>tl ; dr</em></strong>
     </h2>
-</div>
 
 <br>
 
